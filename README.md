@@ -1,6 +1,6 @@
-# Asunto vs vuokra -simulaattori
+# Puupallo-asuntosimulaattori
 
-Vertaile omistusasumisen ja vuokra-asumisen + osakesijoittamisen taloudellisia vaikutuksia ajan kuluessa.
+Puopololle simulaattori - Vertaile omistusasumisen ja vuokra-asumisen + osakesijoittamisen taloudellisia vaikutuksia ajan kuluessa.
 
 ## Ominaisuudet
 
@@ -41,4 +41,3 @@ Sovellus on valmis julkaistavaksi Streamlit Cloudissa. Katso `JULKAISUOHJEET.md`
 - Streamlit
 - pandas
 - matplotlib
-
