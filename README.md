@@ -25,7 +25,7 @@ Puopololle simulaattori - Vertaile omistusasumisen ja vuokra-asumisen + osakesij
 
 ## Julkaisu Streamlit Cloudissa
 
-Sovellus on valmis julkaistavaksi Streamlit Cloudissa. Katso `JULKAISUOHJEET.md` tiedostosta yksityiskohtaiset ohjeet.
+Sovellus on valmis julkaistavaksi Streamlit Cloudissa. Mene osoitteeseen https://share.streamlit.io/, valitse repository ja aseta main file path:ksi `app.py`.
 
 ## Tiedostorakenne
 
