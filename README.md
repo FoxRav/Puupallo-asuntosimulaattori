@@ -2,6 +2,8 @@
 
 Puopololle simulaattori - Vertaile omistusasumisen ja vuokra-asumisen + osakesijoittamisen taloudellisia vaikutuksia ajan kuluessa.
 
+🌐 **Julkaistu sovellus:** https://puupallo-asuntosimulaattori.streamlit.app/
+
 ## Ominaisuudet
 
 - Simuloi nettovarallisuuden kehitystä 5-40 vuoden ajanjaksolla
