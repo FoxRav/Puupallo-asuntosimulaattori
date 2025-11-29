@@ -25,10 +25,6 @@ Puopololle simulaattori - Vertaile omistusasumisen ja vuokra-asumisen + osakesij
 
 3. Avaa selaimessa osoite, joka näkyy terminaalissa (yleensä `http://localhost:8501`)
 
-## Julkaisu Streamlit Cloudissa
-
-Sovellus on valmis julkaistavaksi Streamlit Cloudissa. Mene osoitteeseen https://share.streamlit.io/, valitse repository ja aseta main file path:ksi `app.py`.
-
 ## Tiedostorakenne
 
 - `app.py` - Streamlit-käyttöliittymä
